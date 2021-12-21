@@ -1,5 +1,5 @@
 ### Hi there, Let's Go Green: 👋
-<img src="https://commons.wikimedia.org/wiki/File:Animated_Wallpaper_Windows_10_-_Wallpaper_Engine.gif" alt="Tolulope" align="center" width="500">
+<img src="https://thumbs.gfycat.com/ScaryEntireIchneumonfly.webp" alt="Tolulope" align="center" width="500">
 <br>
 
 ### More about me;
