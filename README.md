@@ -4,7 +4,7 @@
 
 ### More about me;
 
-- 🔭 I’m currently open to learning, unleraning and relearning...
+- 🔭 I’m currently open to learning, unlearning and relearning anything about Data Science and AI...
 - 👯 I’m looking to collaborate more on: Geospatial Artificial Intelligence
 - 💬 Ask me about: Data Science and Machine Learning
 - 😄 Pronouns: She/Her
