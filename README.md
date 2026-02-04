@@ -1,12 +1,11 @@
-### Hi there, Let's Go Green: 👋
+### Hi there, Let's Go : 👋
 <img src="https://thumbs.gfycat.com/ScaryEntireIchneumonfly.webp" alt="Tolulope" align="center" width="500">
 <br>
 
 ### More about me;
 
-- 🔭 I’m currently working on:  Environmental Open source data ...
-- 🌱 I’m currently learning: Microsoft Azure Cloud Computing ...
-- 👯 I’m looking to collaborate more on: Geospatial data and climate data...
+- 🔭 I’m currently open to learning, unleraning and relearning...
+- 👯 I’m looking to collaborate more on: Geospatial Artificial Intelligence
 - 💬 Ask me about: Data Science and Machine Learning
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: When not coding, I love cooking
